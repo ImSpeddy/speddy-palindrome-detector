@@ -1,0 +1,17 @@
+{
+  "name": "speddy-palindrome-detector",
+  "version": "1.0.0",
+  "description": "Palindrome Detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "palindrome",
+    "detector",
+    "words",
+    "language"
+  ],
+  "author": "SpeddyEthanYT",
+  "license": "ISC"
+}
